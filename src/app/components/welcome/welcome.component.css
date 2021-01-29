@@ -1,0 +1,14 @@
+.welcome {
+  display: grid;
+  grid-template-columns: 8fr 4fr;
+  grid-column-gap: 1em;
+  min-height: 400px;
+}
+
+.slideshow {
+  background-color: rgb(59, 238, 59);
+}
+
+.inspirer {
+  background-color: wheat;
+}

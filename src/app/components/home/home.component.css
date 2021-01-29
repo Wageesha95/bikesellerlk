@@ -1,0 +1,5 @@
+.home {
+  display: grid;
+  grid-template-columns: 3fr 8fr 4fr;
+  grid-column-gap: 1em;
+}
